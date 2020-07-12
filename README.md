@@ -1,2 +1,2 @@
-# online_store_ver_2
-SDA final project by Siim &amp; Karlis
+# sda_online_store
+SDA course's Final Project by Siim and Karlis
